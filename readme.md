@@ -1,7 +1,7 @@
 # Implementación de TuCuota en PHP
 
 
-En este ejemplo mostramos cómo agregar pagos y suscripciones a través del checkout de TuCuota.
+En este ejemplo mostramos cómo hacer sesiones de checkout con TuCuota.
 Más información en nuestra documentación:
 https://tucuota.com/docs
 
